@@ -27,6 +27,6 @@ Here's a walkthrough of implemented user stories:
 ## Part 1 - App icon + Styled launch screen + Sign up + Log in
 <img src='https://github.com/EugenSong/gifs/blob/main/first_30_sec.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
 
-## Part 2 - View last 20 posts + Take photo + Add caption + Post to server 
+## Part 2 - View last 20 posts + Take photo + Add caption + Post to Parse server 
 <img src='https://github.com/EugenSong/gifs/blob/main/second_30_sec.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
 
