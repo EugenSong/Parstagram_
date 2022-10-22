@@ -19,11 +19,11 @@ Here's a walkthrough of implemented user stories:
 
 ## Part 1 - User can log out + add a new comment
 
-<img src='https://github.com/EugenSong/gifs/blob/main/parsta_pt2_gif1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/EugenSong/gifs/blob/main/parsta_pt2_gif1.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
 
 ## Part 2 - Viewing comments + stay logged in across restarts
 
-<img src='https://github.com/EugenSong/gifs/blob/main/parsta_pt2_gif2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/EugenSong/gifs/blob/main/parsta_pt2_gif2.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
